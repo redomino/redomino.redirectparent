@@ -4,8 +4,8 @@ Changelog
 0.4 (unreleased)
 ----------------
 
-- Nothing changed yet.
-
+- Added details in setup.py [sithmel]
+- added license [sithmel]
 
 0.3 (2013-06-25)
 ----------------
